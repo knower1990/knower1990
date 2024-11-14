@@ -1,0 +1,6 @@
+How Network Sniffing Works
+
+Packet Capture: Network sniffers intercept data packets as they pass through a network interface. This is typically done by putting the network interface into promiscuous mode, which allows it to capture all traffic, not just packets addressed to the device.
+Packet Analysis: Once captured, the packets are analyzed to extract valuable information. This may involve examining the packet headers to identify the source and destination addresses, protocols used, and payload data.
+Data Extraction: Sensitive information, such as passwords, credit card numbers, or confidential emails, can be extracted from the captured packets.
+How to Avoid Network Sniffing

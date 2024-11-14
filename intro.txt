@@ -1,0 +1,3 @@
+Introduction to Network Sniffing
+
+Network sniffing, also known as packet sniffing, is a technique used to intercept and capture network traffic. This involves monitoring data packets as they travel across a network, allowing an attacker to potentially access sensitive information such as passwords, credit card numbers, or confidential emails.
